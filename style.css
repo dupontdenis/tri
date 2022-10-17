@@ -1,0 +1,8 @@
+div {
+    display: flex;
+    gap : 1em;
+}
+
+p {
+    flex : 0 10%;
+}
